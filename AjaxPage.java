@@ -1,3 +1,4 @@
+//********************************************************
 package com.dataart.selenium.pages;
 
 import com.dataart.selenium.framework.BasePage;
